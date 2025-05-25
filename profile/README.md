@@ -29,8 +29,8 @@ Welcome to the official GitHub organization for **sysINF** — a lightweight, cr
 
 | Release Type       | Version                                                                                                              | Notes                                     |
 |--------------------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| Latest Stable      | ![Latest Stable Release](https://img.shields.io/github/v/release/sysINFapp/ubuntu) `(__STABLE_VERSION__)`           | Initial stable release for Ubuntu         |
-| Latest Pre-release | ![Latest Pre-release](https://img.shields.io/github/v/release/sysINFapp/ubuntu?include_prereleases) `(__PRERELEASE_VERSION__)` | Beta release with enhanced UI and GPU info |
+| Latest Stable      | ![Latest Stable Release](https://img.shields.io/github/v/release/sysINFapp/ubuntu) | Initial stable release for Ubuntu         |
+| Latest Pre-release | ![Latest Pre-release](https://img.shields.io/github/v/release/sysINFapp/ubuntu?include_prereleases) | Beta release with enhanced UI and GPU info |
 
 > **Note:** Pre-release versions may include experimental features and are intended for testing.
 
