@@ -48,7 +48,7 @@ Other Linux distros — Planned future support based on community interest.
 
 ## Contact & Support
 
-For support or questions, please open an [issue](https://github.com/openOMEN/ubuntu/issues).
+For support or questions, please open an [issue](https://github.com/openomen/openomen/issues).
 
 ---
 
