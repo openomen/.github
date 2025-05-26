@@ -12,16 +12,21 @@ Welcome to the official GitHub organization for OpenOMEN — an **open-source** 
 
 ## Supported Operating Systems
 
-- **Ubuntu (Linux)** — Primary and highest priority platform. All core development, testing, and releases focus here first.
-- **Windows** — Planned future support. Windows version development is ongoing, with Ubuntu prioritized to ensure stability and completeness.
+**Ubuntu** — Primary and highest priority platform. All core development, testing, and releases focus on Ubuntu first.
+
+Other Linux distros — Planned future support based on community interest.
 
 ---
 
 ## Project Priorities
 
-- Deliver a reliable, performant, and easy-to-use tool for Ubuntu users first.
-- Incrementally add Windows support after Ubuntu features are stable.
-- Maintain clear and consistent releases with automated updates for users.
+- Deliver reliable, performant, and fully featured OMEN hardware support on Ubuntu.
+
+- Implement fan control, performance/powersaving modes, and monitoring features.
+
+- Provide a clean daemon and user-friendly interface or API for control.
+
+- Expand support to other Linux distros after Ubuntu stability.
 
 ---
 
@@ -44,11 +49,11 @@ This repository is configured to automatically display the latest stable and pre
 
 ## Contact & Support
 
-For support or questions, please open an [issue](https://github.com/sysINFapp/ubuntu/issues).
+For support or questions, please open an [issue](https://github.com/openOMEN/ubuntu/issues).
 
 ---
 
-Thank you for your interest in **sysINF**!
+Thank you for your interest in **OpenOMEN**!
 
 ---
 
