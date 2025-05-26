@@ -30,17 +30,6 @@ Other Linux distros — Planned future support based on community interest.
 
 ---
 
-## Current Release Status
-
-| Release Type     | Version | Notes                                   |
-|------------------|---------|-----------------------------------------|
-| Latest Stable    | ![Latest Stable Release](https://img.shields.io/github/v/release/sysINFapp/ubuntu?logo=github) | Initial stable release for Ubuntu       |
-| Latest Pre-release | ![Latest Pre-release](https://img.shields.io/badge/pub-Prerelease--1.1.0--beta-orange) | Beta release with enhanced UI and GPU info |
-
-> **Note:** Pre-release versions may include experimental features and are intended for testing.
-
----
-
 ## Automatic Release Updates
 
 This repository is configured to automatically display the latest stable and pre-release versions based on GitHub Releases data. Check the [releases](https://github.com/sysINFapp/ubuntu/releases) page for the most up-to-date information.
@@ -53,8 +42,21 @@ For support or questions, please open an [issue](https://github.com/openOMEN/ubu
 
 ---
 
-Thank you for your interest in **OpenOMEN**!
+# Disclaimer
+
+OpenOMEN is an independent open-source project and is **not affiliated with, endorsed by, or sponsored by HP Inc.** or the Omen brand.
+
+*“Omen” is a trademark of HP Inc., and any references to it in this project are strictly for the purpose of device compatibility and identification.*
+
+This software is provided **"as is"**, without warranty of any kind, express or implied. By using this software, you acknowledge that:
+
+- You are responsible for any potential damage to your device.
+- You understand that modifying hardware or system behavior may void warranties.
+- You will not hold the authors or contributors liable for any outcome resulting from the use of this software.
+
+**Use at your own risk.**
 
 ---
 
-*This README is maintained automatically using GitHub Actions to keep release information current.*
+## License
+[LICENSE](https://github.com/openOMEN/)
