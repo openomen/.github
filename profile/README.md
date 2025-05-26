@@ -53,4 +53,4 @@ For support or questions, please open an [issue](https://github.com/openOMEN/ubu
 ---
 
 ## License
-[LICENSE](.github/blob/main/LICENSE)
+[LICENSE](https://github.com/openomen/.github/blob/main/LICENSE)
