@@ -1,12 +1,12 @@
-# sysINF Organization
+# OpenOMEN Organization
 
-Welcome to the official GitHub organization for **sysINF** — a lightweight, cross-platform system information tool focused primarily on Ubuntu.
+Welcome to the official GitHub organization for OpenOMEN — an **open-source** driver and daemon for HP OMEN hardware on Ubuntu Linux.
 
 ---
 
-## About sysINF
+## About OpenOMEN
 
-**sysINF** provides detailed hardware and software insights with a clean, user-friendly interface. It helps users quickly understand their system’s status including CPU, memory, disk, network, and GPU information.
+**OpenOMEN** provides fan control, system monitoring, and performance management features for HP OMEN laptops and desktops on Linux. It enables functionalities such as fanboost/fan control, CPU/GPU performance and power-saving modes, and hardware status monitoring — bringing the core features of OMEN Hub to the open-source Linux world.
 
 ---
 
