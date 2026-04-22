@@ -1,6 +1,7 @@
 # OpenOMEN Organization
 
-Welcome to the official GitHub organization for OpenOMEN — an **open-source** driver and daemon for HP OMEN hardware on Ubuntu Linux.
+Welcome to the GitHub for OpenOMEN — an **open-source** driver and daemon for HP OMEN hardware on Ubuntu Linux.
+<br>**Join the discord for more and better updates! [https://discord.gg/UHQ5cztbUj](https://discord.gg/UHQ5cztbUj)**
 
 ---
 
